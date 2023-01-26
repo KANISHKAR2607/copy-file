@@ -27,10 +27,21 @@ write() is used to write the lines of main file to the empty file or to the dire
 
 ```
 '''
-
+```
 ### OUTPUT:
 
+#### First File
 
+![5c data1](https://user-images.githubusercontent.com/118886772/214780092-3aa99abe-1728-4851-b91b-c6ee8f169ce6.png)
+
+#### Code File
+
+![5c kan](https://user-images.githubusercontent.com/118886772/214780159-b04090f2-d36a-49b0-9a1d-fce304a0e67c.png)
+
+#### Output File
+
+![5c output](https://user-images.githubusercontent.com/118886772/214780275-37ef9fa5-cfe3-400b-94e6-a2bac1d99457.png)
 
 ## RESULT:
+
 Thus the program is written to copy the contents from one file to another file.
