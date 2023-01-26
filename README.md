@@ -27,6 +27,13 @@ write() is used to write the lines of main file to the empty file or to the dire
 
 ```
 '''
+Developed by:KANISHKAR M
+Register Number:22007816
+'''
+with open('text.txt','r') as firstfile:
+    with open('text2.txt','a') as secondfile:
+        for line in firstfile:
+            secondfile.write(line)
 ```
 ### OUTPUT:
 
